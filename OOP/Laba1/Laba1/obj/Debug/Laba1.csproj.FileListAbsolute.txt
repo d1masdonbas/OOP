@@ -1,0 +1,8 @@
+D:\projects\OOP 2 Kirs\Laba1\Laba1\bin\Debug\Laba1.exe.config
+D:\projects\OOP 2 Kirs\Laba1\Laba1\bin\Debug\Laba1.exe
+D:\projects\OOP 2 Kirs\Laba1\Laba1\bin\Debug\Laba1.pdb
+D:\projects\OOP 2 Kirs\Laba1\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+D:\projects\OOP 2 Kirs\Laba1\Laba1\obj\Debug\Laba1.csproj.SuggestedBindingRedirects.cache
+D:\projects\OOP 2 Kirs\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+D:\projects\OOP 2 Kirs\Laba1\Laba1\obj\Debug\Laba1.exe
+D:\projects\OOP 2 Kirs\Laba1\Laba1\obj\Debug\Laba1.pdb

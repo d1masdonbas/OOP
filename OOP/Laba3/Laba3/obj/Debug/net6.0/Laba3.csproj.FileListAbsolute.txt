@@ -1,0 +1,15 @@
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\bin\Debug\net6.0\Laba3.exe
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\bin\Debug\net6.0\Laba3.deps.json
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\bin\Debug\net6.0\Laba3.runtimeconfig.json
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\bin\Debug\net6.0\Laba3.dll
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\bin\Debug\net6.0\Laba3.pdb
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\obj\Debug\net6.0\Laba3.csproj.AssemblyReference.cache
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\obj\Debug\net6.0\Laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\obj\Debug\net6.0\Laba3.AssemblyInfoInputs.cache
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\obj\Debug\net6.0\Laba3.AssemblyInfo.cs
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\obj\Debug\net6.0\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\obj\Debug\net6.0\Laba3.dll
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\obj\Debug\net6.0\refint\Laba3.dll
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\obj\Debug\net6.0\Laba3.pdb
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\obj\Debug\net6.0\Laba3.genruntimeconfig.cache
+C:\Users\Віка\Desktop\Rostik Labs OOP\Laba3\Laba3\obj\Debug\net6.0\ref\Laba3.dll
