@@ -1,0 +1,14 @@
+from ray import tune
+
+tuner = tune.Tuner(
+    lambda config: config["learning_rate"] + config["discount_factor"] + config["exploration_parameter"],
+    tune_config=tune.TuneConfig(
+    	num_samples=100
+    ), 
+    param_space={
+        "learning_rate": tune.grid_search([0.001, 0.01, 0.1, 1]),
+        "discount_factor": tune.randint(0, 10),
+        "exploration_parameter": tune.uniform(0.1, 0.5)
+    },
+)
+tuner.fit()
